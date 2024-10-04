@@ -1,5 +1,5 @@
 
-![github-header-image](https://github.com/user-attachments/assets/18319919-127c-4023-bddc-53914f959be0)
+![github-header-image (1)](https://github.com/user-attachments/assets/9e41728e-e0e0-49b0-8197-9f885b13bf86)
 
 ## Hi there 👋
 # 💻 Tech Stack:
